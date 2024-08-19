@@ -1,0 +1,4 @@
+/* css for field container to add a little spacing, could have used makeStyles, or added more styling */
+.field-container {
+  margin-bottom: 5px;
+}
